@@ -1,0 +1,60 @@
+body {
+    background-color : white;
+}
+article h1,ul{
+    background-color: wheat ;
+}
+h1 {
+    color: black ;
+    background-color:  #333333;
+    padding: 16px 20px;
+    margin-top: 0;
+    float: left;
+
+}
+a {
+    color: #000000;
+    font-size: 16px;
+    
+   
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  float: left;
+  padding-left: 30px;
+}
+
+ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 25.5px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #B0FC38;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+.parrafos {
+   width: 50%;
+    margin: 0 auto;
+  text-align: center;
+  
+}
+.titulo h2 {
+    color: #333333;
+    text-align: left;
+}
